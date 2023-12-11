@@ -1,3 +1,5 @@
+**Overview of the Dashboard:**  
+
 Transformed the Raw HR Data to exploitable data.  
 
 Performed Data Cleaning to derive meaningful insights from it.  
